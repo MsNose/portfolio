@@ -2,7 +2,7 @@
 description: Welcome to my portfolio
 images:
 - /images/profil1.jpg
-title: BLANKA MÓRI
+title: HOME
 ---
 
 Hey,
