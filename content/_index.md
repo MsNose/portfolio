@@ -1,8 +1,8 @@
 ---
 description: Welcome to this sample project
 images:
-- /images/sample.jpg
-title: HOME
+- /images/profil1.jpg
+title: BLANKA MÓRI
 ---
 
 Hey,
