@@ -1,0 +1,26 @@
+{
+    "id": "6038FDD8",
+    "path": "~/blog/mysite/config.yaml",
+    "project_path": "config.yaml",
+    "type": "yaml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1701705232804.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,15",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701705330,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701705331000,
+    "read_only": false,
+    "read_only_alternatives": []
+}
