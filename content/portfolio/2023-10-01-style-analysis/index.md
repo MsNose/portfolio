@@ -5,9 +5,11 @@ date: '2023-10-01'
 slug: []
 categories: []
 tags: []
-description: ~
+description: 
 jobDate: 2023
-work: []
+work:
+- asset management
+- factor models
 techs:
 - Python
 designs:
