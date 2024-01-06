@@ -1,0 +1,3 @@
+[submodule "themes/hugo-highcharts"]
+	path = themes/hugo-highcharts
+	url = https://github.com/cmlnet/hugo-highcharts.git

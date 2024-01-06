@@ -5,9 +5,15 @@
   {{ partial "head/style" .}}
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/schema.html" . }}
+   <!-- Embed d3.js and plotly.js if plotly:true -->
+  {{ if .Params.plotly }}
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-2.11.1.min.js"></script>
+  {{ end }}
 </head>
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
+

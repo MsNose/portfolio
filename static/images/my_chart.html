@@ -1,0 +1,37 @@
+<!-- content/my_chart.html -->
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+<figure class="highcharts-figure">
+    <div id="myContainer"></div>
+    <p class="highcharts-description">
+        Your custom pie chart description.
+    </p>
+</figure>
+
+<script>
+    Highcharts.chart('myContainer', {
+        data: {
+            // Your JSON data here
+            "data": [{
+                "hole": 0.3,
+                "hoverinfo": "label+percent",
+                "labels": ["I00039EU Index", "I31914EU Index", "I00001EU Index", "LE57TREU Index", "I00163EU Index", "I04276EU Index", "MXEUG Index", "MXUS Index", "MSERP Index", "MXGB Index"],
+                "marker": {
+                    "colors": ["rgb(127, 60, 141)", "rgb(17, 165, 121)", "rgb(57, 105, 172)", "rgb(242, 183, 1)", "rgb(231, 63, 116)", "rgb(128, 186, 90)", "rgb(230, 131, 16)", "rgb(0, 134, 149)", "rgb(207, 28, 144)", "rgb(249, 123, 114)", "rgb(165, 170, 153)"]
+                },
+                "textinfo": "percent+label",
+                "textposition": "inside",
+                "values": [2.9079760965603663e-16, 0.08339464423321638, 0.0025897146629998, 0.35738696660906366, 0.08541785350647331, 1.9905851089086732e-16, 0.08546427499734248, 0.3431105669756952, 0.042635979015208665, 0.0],
+                "type": "pie"
+            }],
+            "layout": {
+                "template": {
+                    // Your template options here
+                }
+            }
+        }
+    });
+</script>

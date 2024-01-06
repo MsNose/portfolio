@@ -1,8 +1,8 @@
 ---
-description: Welcome to this sample project
+description: Welcome to my portfolio
 images:
-- /images/profil1.jpg
-title: BLANKA MÓRI
+- /images/above_the_sea_of_fog.jpg
+title: HOME
 ---
 
 Hey,

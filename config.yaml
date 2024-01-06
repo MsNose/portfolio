@@ -32,9 +32,9 @@ params:
     portfolio: project
     post: article
   sidebar:
-    backgroundImage: /images/black.jpg
+    backgroundImage: /images/back8.jpeg
     gradientOverlay: ''
-    logo: /images/profil1.jpg
+    logo: /images/profil5.jpg
   social:
     #codepen: https://codepen.io/
     #facebook: https://www.facebook.com/
