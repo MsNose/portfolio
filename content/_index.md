@@ -1,7 +1,11 @@
 ---
 description: Welcome to my portfolio
 images:
+<<<<<<< HEAD
 - /images/above_the_sea_of_fog.jpg
+=======
+- /images/profil1.jpg
+>>>>>>> f86aab6d4a2fc46f58a2d07e5081c95d68c2f6ab
 title: HOME
 ---
 
