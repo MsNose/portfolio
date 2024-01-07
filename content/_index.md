@@ -1,7 +1,7 @@
 ---
 description: Welcome to my portfolio
 images:
-- /images/profil1.jpg
+- /images/profil7.jpg
 title: HOME
 ---
 
